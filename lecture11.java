@@ -1,0 +1,1 @@
+A static variable is a class variable. A single copy of the static variable is created for all instances of the class. It can be directly accessed in a static method. An abstract class in Java is a class that cannot be instantiated
